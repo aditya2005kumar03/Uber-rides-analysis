@@ -12,7 +12,7 @@ This project analyzes a dataset of 1,156 Uber trips to extract meaningful busine
 
 ## 📊 Dataset Description
 
-- **Source:** [Kaggle - Uber Rides Dataset](https://www.kaggle.com/datasets/zusmani/uberdrives)
+- **Source:** https://media.geeksforgeeks.org/wp-content/uploads/20240919115958/UberDataset.csv
 - **Size:** 1,156 rows × 7 columns
 
 | Column | Description |
